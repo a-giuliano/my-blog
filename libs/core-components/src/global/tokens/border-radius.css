@@ -1,0 +1,7 @@
+:where(html) {
+  --ag-border-radius-sm: 0.125rem;
+  --ag-border-radius-md: 0.25rem;
+  --ag-border-radius-lg: 0.5rem;
+  --ag-border-radius-xl: 1rem;
+  --ag-border-radius-full: 999rem;
+}

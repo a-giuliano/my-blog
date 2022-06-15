@@ -1,0 +1,60 @@
+:where(html) {
+  /* Core Tokens */
+  --ag-white: hsl(0, 0%, 100%);
+
+  --ag-gray-50: hsl(200, 100%, 97%);
+  --ag-gray-100: hsl(210, 91%, 96%);
+  --ag-gray-200: hsl(210, 50%, 92%);
+  --ag-gray-300: hsl(210, 29%, 86%);
+  --ag-gray-400: hsl(212, 13%, 72%);
+  --ag-gray-500: hsl(212, 9%, 60%);
+  --ag-gray-600: hsl(210, 8%, 44%);
+  --ag-gray-700: hsl(212, 9%, 36%);
+  --ag-gray-800: hsl(206, 13%, 24%);
+  --ag-gray-900: hsl(208, 26%, 11%);
+
+  --ag-purple-50: hsl(270, 85%, 95%);
+  --ag-purple-100: hsl(263, 85%, 87%);
+  --ag-purple-200: hsl(262, 87%, 78%);
+  --ag-purple-300: hsl(262, 89%, 68%);
+  --ag-purple-400: hsl(262, 89%, 60%);
+  --ag-purple-500: hsl(265, 98%, 48%);
+  --ag-purple-600: hsl(263, 100%, 46%);
+  --ag-purple-700: hsl(258, 100%, 44%);
+  --ag-purple-800: hsl(251, 100%, 43%);
+  --ag-purple-900: hsl(240, 100%, 41%);
+
+  --ag-green-50: hsl(155, 95%, 92%);
+  --ag-green-100: hsl(157, 90%, 79%);
+  --ag-green-200: hsl(163, 91%, 54%);
+  --ag-green-300: hsl(160, 100%, 46%);
+  --ag-green-400: hsl(157, 100%, 45%);
+  --ag-green-500: hsl(153, 100%, 43%);
+  --ag-green-600: hsl(152, 100%, 39%);
+  --ag-green-700: hsl(150, 100%, 35%);
+  --ag-green-800: hsl(149, 100%, 32%);
+  --ag-green-900: hsl(146, 100%, 25%);
+
+  /* Semantic Tokens */
+  --ag-color-primary-50: var(--ag-purple-50);
+  --ag-color-primary-100: var(--ag-purple-100);
+  --ag-color-primary-200: var(--ag-purple-200);
+  --ag-color-primary-300: var(--ag-purple-300);
+  --ag-color-primary-400: var(--ag-purple-400);
+  --ag-color-primary-500: var(--ag-purple-500);
+  --ag-color-primary-600: var(--ag-purple-600);
+  --ag-color-primary-700: var(--ag-purple-700);
+  --ag-color-primary-800: var(--ag-purple-800);
+  --ag-color-primary-900: var(--ag-purple-900);
+
+  --ag-color-secondary-50: var(--ag-green-50);
+  --ag-color-secondary-100: var(--ag-green-100);
+  --ag-color-secondary-200: var(--ag-green-200);
+  --ag-color-secondary-300: var(--ag-green-300);
+  --ag-color-secondary-400: var(--ag-green-400);
+  --ag-color-secondary-500: var(--ag-green-500);
+  --ag-color-secondary-600: var(--ag-green-600);
+  --ag-color-secondary-700: var(--ag-green-700);
+  --ag-color-secondary-800: var(--ag-green-800);
+  --ag-color-secondary-900: var(--ag-green-900);
+}
