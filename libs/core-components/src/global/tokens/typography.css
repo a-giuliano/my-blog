@@ -1,0 +1,7 @@
+:where(html) {
+  --ag-font-size-xs: 0.75rem;
+  --ag-font-size-sm: 0.875rem;
+  --ag-font-size-md: 1rem;
+  --ag-font-size-lg: 1.25rem;
+  --ag-font-size-xl: 1.5rem;
+}

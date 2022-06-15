@@ -2,6 +2,7 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "core-components": "libs/core-components",
     "gatsby-blog": "apps/gatsby-blog",
     "gatsby-blog-e2e": "apps/gatsby-blog-e2e"
   }
